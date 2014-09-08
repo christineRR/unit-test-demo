@@ -1,0 +1,19 @@
+{
+  "name": "unit-test-demo",
+  "main": "",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "istanbul": "*",
+    "expect.js": "*",
+    "jm-spy": "*"
+  },
+  "engines": [
+    "node >=0.8.14"
+  ],
+  "scripts": {
+    "test": "make test"
+  }
+}
