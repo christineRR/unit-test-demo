@@ -2,8 +2,7 @@
   "name": "unit-test-demo",
   "main": "",
   "version": "0.0.1",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "*",
     "supertest": "*",
