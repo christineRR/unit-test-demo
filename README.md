@@ -1,4 +1,4 @@
-unit-test-demo
+unit-test-demo [![Build Status](https://travis-ci.org/christineRR/unit-test-demo.svg?branch=master)](https://travis-ci.org/christineRR/unit-test-demo)
 ==============
 
 demo or examples about nodejs unit test
