@@ -24,4 +24,4 @@ make test-cov
 node index.js
 ```
 
-打开`http://localhost:9999'，即可看到应用页面
+打开[http://localhost:9999/](http://localhost:9999/)，即可访问
