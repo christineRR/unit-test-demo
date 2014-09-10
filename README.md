@@ -18,3 +18,10 @@ make test
 ```bash
 make test-cov
 ```
+
+## 启动
+```bash
+node index.js
+```
+
+打开`http://localhost:9999'，即可看到应用页面
